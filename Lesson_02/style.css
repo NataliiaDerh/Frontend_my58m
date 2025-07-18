@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: rgb(201, 28, 12);
+    font-style: italic;
+}
+
+ul > li {
+    color: green;
+}
+
+.desc {
+    color: rgb(249, 17, 17);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.violet {
+    color: blueviolet;
+}
+
+b {
+    text-decoration: underline;
+}
